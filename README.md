@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Guarab Chhetri</h1>
 <h3 align="center">A passionate Web Developer from Nepal</h3>
 
+<img align="center" src="https://scontent.fpkr1-1.fna.fbcdn.net/v/t39.30808-6/287728669_751840109334136_1623180891277519793_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=JeVppSVhJoIAX8HpS-w&_nc_ht=scontent.fpkr1-1.fna&oh=00_AT_WM1ZrgRYJcT1IhDI0Sw6uYnTOeQn6J_TVD4_f0ec2xw&oe=62D0AF5A">
+
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 Check My Portfolio [https://www.gaurabchhetri.com.np](https://www.gaurabchhetri.com.np)
