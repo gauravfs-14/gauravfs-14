@@ -4,7 +4,7 @@
 <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" align="right">
 
 
-- 🌱 I’m currently learning **MERN Stack & React Native**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 Check My Portfolio [https://www.gaurabchhetri.com.np](https://www.gaurabchhetri.com.np)
 
