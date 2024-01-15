@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning **Full Stack Development**<br><br>📝 I regularly write articles on [https://computenepal.com](https://computenepal.com)<br><br>📫 How to reach me **contact@gaurabchhetri.com.np**
+🌱 I’m currently learning **Mobile Development with React Native**<br><br>📝 I regularly write articles on [https://computenepal.com](https://computenepal.com)<br><br>📫 How to reach me **contact@gaurabchhetri.com.np**
 
 
 ## 🌐 Socials:
