@@ -8,7 +8,7 @@ I'm Gaurab Chhetri, a passionate software developer based in San Marcos, Texas. 
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,mysql,sqlite,prisma,html,css,py,c,cpp,r,wordpress,linux,php,git,figma,tailwind,md,npm,neovim&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,mysql,sqlite,prisma,html,css,py,c,cpp,r,wordpress,linux,php,git,figma,tailwind,md,npm,neovim&perline=12)](https://skillicons.dev)
 
 ## Top Projects
 
