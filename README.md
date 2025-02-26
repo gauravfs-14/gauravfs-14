@@ -29,6 +29,4 @@ Check out my latest articles on my [blog](https://computenepal.com).
 
 <a href="https://twitter.com/gaurav_fs_14" target="_blank" rel="noopener noreferrer"><Icon /> Twitter</a> | <a href="https://www.linkedin.com/in/gaurabchhetri/" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a> | <a href="https://www.facebook.com/gaurab.chhetri.370" target="_blank" rel="noopener noreferrer"><Icon /> Facebook</a>
 
----
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D6KQRW3)
