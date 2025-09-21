@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Gaurab Chhetri, a passionate software developer based in San Marcos (Austin), Texas. I thrive on creating innovative solutions and am always eager to learn new technologies.
+I'm Gaurab Chhetri, a software engineer and student researcher based in San Marcos (Austin), Texas. I thrive on creating innovative solutions and am always eager to learn new technologies.
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gauravfs-14.gauravfs-14&"  />
