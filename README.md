@@ -10,13 +10,6 @@ I'm Gaurab Chhetri, a software engineer and student researcher based in San Marc
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,mysql,sqlite,prisma,html,css,py,c,cpp,r,wordpress,linux,php,git,figma,tailwind,md,npm,neovim&perline=12)](https://skillicons.dev)
 
-## Top Projects
-
-[![Bhanai](https://github-readme-stats.vercel.app/api/pin/?username=gauravfs-14&repo=bhanai&theme=dark)](https://github.com/gauravfs-14/bhanai)
-[![NpVim](https://github-readme-stats.vercel.app/api/pin/?username=gauravfs-14&repo=NpVim&theme=dark)](https://github.com/gauravfs-14/NpVim)
-[![Bluesky CLI](https://github-readme-stats.vercel.app/api/pin/?username=gauravfs-14&repo=bluesky-cli&theme=dark)](https://github.com/gauravfs-14/bluesky-cli)
-[![optimize-images-cli](https://github-readme-stats.vercel.app/api/pin/?username=gauravfs-14&repo=optimize-images-cli&theme=dark)](https://github.com/gauravfs-14/optimize-images-cli)
-
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravfs-14&count_private=true&show_icons=true&rank_icon=github&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravfs-14&layout=donut&theme=dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
