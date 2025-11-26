@@ -10,10 +10,6 @@ I'm Gaurab Chhetri, a software engineer and student researcher based in San Marc
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,mysql,sqlite,prisma,html,css,py,c,cpp,r,wordpress,linux,php,git,figma,tailwind,md,npm,neovim&perline=12)](https://skillicons.dev)
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravfs-14&count_private=true&show_icons=true&rank_icon=github&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravfs-14&layout=donut&theme=dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Latest Blog Posts
 
 Check out my latest articles on my [blog](https://computenepal.com).
