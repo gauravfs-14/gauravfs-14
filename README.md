@@ -1,21 +1,8 @@
-## Hi there! 👋
+Undergraduate researcher in computer science. I work on AI, data mining, and full-stack web development, and I like building end-to-end systems that mix machine learning with solid engineering.
 
-I'm Gaurab Chhetri, a software engineer and student researcher based in San Marcos (Austin), Texas. I thrive on creating innovative solutions and am always eager to learn new technologies.
+**Interests:** AI, ML, data-heavy systems, full-stack development
+**Stack:** TypeScript, Python, and whatever the project needs
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gauravfs-14.gauravfs-14&"  />
-</div>
+I also built [ComputeNepal](https://computenepal.com/).
 
-## Skills & Technologies
-
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,mysql,sqlite,prisma,html,css,py,c,cpp,r,wordpress,linux,php,git,figma,tailwind,md,npm,neovim&perline=12)](https://skillicons.dev)
-
-## Latest Blog Posts
-
-Check out my latest articles on my [blog](https://computenepal.com).
-
-## Connect with Me
-
-<a href="https://twitter.com/gaurav_fs_14" target="_blank" rel="noopener noreferrer"><Icon /> Twitter</a> | <a href="https://www.linkedin.com/in/gaurabchhetri/" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a> | <a href="https://www.facebook.com/gaurab.chhetri.370" target="_blank" rel="noopener noreferrer"><Icon /> Facebook</a>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D6KQRW3)
+If any of my work interests you, feel free to follow along on [Google Scholar](https://scholar.google.com/citations?user=NRzdAVEAAAAJ&hl=en) or connect on [LinkedIn](https://www.linkedin.com/in/gaurabchhetri/).
