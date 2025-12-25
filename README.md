@@ -1,7 +1,6 @@
 Undergraduate researcher in computer science. I work on AI, data mining, and full-stack web development, and I like building end-to-end systems that mix machine learning with solid engineering. [Click Here](https://www.gaurabchhetri.com.np/devLogs) if you want to read more of my thoughts.
 
-**Interests:** AI, ML, data-heavy systems, full-stack development
-**Stack:** TypeScript, Python, and whatever the project needs
+**Interests:** AI, ML, data-heavy systems, full-stack development | **Stack:** TypeScript, Python, and whatever the project needs
 
 I also built [ComputeNepal](https://computenepal.com/).
 
